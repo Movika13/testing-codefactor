@@ -10,6 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. testing Codefactor
         </p>
       </header>
+      <span>Testing</span>
+      <span>heading</span>
     </div>
   );
 }
