@@ -12,6 +12,7 @@ function App() {
       </header>
       <span>Testing</span>
       <span>heading</span>
+      <span>heading1</span>
     </div>
   );
 }
