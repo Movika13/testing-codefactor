@@ -14,6 +14,7 @@ function App() {
       <span>heading</span>
       <span>heading1</span>
       <span>heading2</span>
+      <span>heading3</span>
     </div>
   );
 }
